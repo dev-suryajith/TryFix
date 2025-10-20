@@ -1,0 +1,79 @@
+{
+  "notes": [
+    {
+      "id": "eb22",
+      "title": "Project Planning Session",
+      "data": "Key takeaways from today's project kickoff:\n• Finalize requirements by Friday\n• Schedule client demo for next week\n• Research potential API integrationssadasd\n• Prepare budget estimation document\n\nAction items:\n- Contact design team for mockups\n- Set up development environment\n- Create project timeline in Asana",
+      "createdAt": "2025-10-20T10:30:00Z",
+      "importance": "High",
+      "updatedAt": "10/20/2025, 12:09:22 PM"
+    },
+    {
+      "id": "eb23",
+      "title": "Weekly Grocery List",
+      "data": "Essentials for this week:\n• Fresh vegetables: Broccoli, carrots, spinach\n• Fruits: Apples, bananas, oranges\n• Dairy: Milk, eggs, cheese, yogurt\n• Protein: Chicken breast, salmon, tofu\n• Pantry: Pasta, rice, olive oil, coffee\n\nSpecial items:\n- Birthday cake ingredients\n- Party snacks for Saturday",
+      "createdAt": "2025-10-18T14:20:00Z",
+      "importance": "Medium",
+      "updatedAt": "10/20/2025, 2:08:30 AM"
+    },
+    {
+      "id": "nt45",
+      "title": "Book Recommendations 2025",
+      "data": "Must-read books for this year:\n\nFiction:\n• 'The Midnight Library' by Matt Haig\n• 'Project Hail Mary' by Andy Weir\n• 'Klara and the Sun' by Kazuo Ishiguro\n\nNon-Fiction:\n• 'Atomic Habits' by James Clear\n• 'Deep Work' by Cal Newport\n• 'Sapiens' by Yuval Noah Harari\n\nCurrently reading: 'The Three-Body Problem'",
+      "importance": "Medium",
+      "createdAt": "10/19/2025, 3:45:22 PM"
+    },
+    {
+      "id": "7ff1",
+      "title": "Fitness Routine & Goals",
+      "data": "Weekly workout schedule:\nMonday: Upper body strength + Cardio\nTuesday: Yoga & Mobility\nWednesday: Lower body + Core\nThursday: Rest day / Light walk\nFriday: Full body HIIT\nSaturday: Outdoor activity (hiking/swimming)\nSunday: Active recovery\n\nMonthly goals:\n- Run 5K under 30 minutes\n- Increase bench press by 10lbs\n- Meditate daily for 15 minutes",
+      "importance": "Low",
+      "createdAt": "10/20/2025, 2:06:52 AM"
+    },
+    {
+      "id": "a1b2",
+      "title": "Travel Planning - Japan 2025",
+      "data": "Japan Trip Itinerary:\n\nTokyo (4 days):\n• Visit Shibuya Crossing & Harajuku\n• Explore Asakusa temples\n• TeamLab Borderless digital museum\n• Day trip to Mount Fuji\n\nKyoto (3 days):\n• Fushimi Inari Shrine gates\n• Arashiyama bamboo forest\n• Traditional tea ceremony\n• Gion district cultural experience\n\nBudget: $3,000 total\nFlight booked: November 15-30, 2025",
+      "importance": "High",
+      "createdAt": "10/15/2025, 9:15:10 AM",
+      "updatedAt": "10/20/2025, 10:30:45 AM"
+    },
+    {
+      "id": "c3d4",
+      "title": "Learning Goals - Q4 2025",
+      "data": "Skills to develop this quarter:\n\nTechnical:\n• Master React Hooks and Context API\n• Learn Node.js backend development\n• Practice TypeScript implementation\n• Explore cloud deployment (AWS)\n\nSoft Skills:\n• Public speaking practice\n• Improve technical writing\n• Learn conflict resolution techniques\n\nResources:\n- Complete Frontend Masters courses\n- Build 3 portfolio projects\n- Attend 2 tech meetups monthly",
+      "importance": "High",
+      "createdAt": "10/01/2025, 8:00:00 AM",
+      "updatedAt": "10/20/2025, 11:20:15 AM"
+    },
+    {
+      "id": "g7h8",
+      "title": "Meeting Notes - Team Sync",
+      "data": "Weekly Team Sync - October 20, 2025\n\nAttendees: Sarah, Mike, Jessica, David\n\nDiscussion Points:\n• Q3 performance review completed\n• New project timeline approved\n• Upcoming client presentation prep\n• Team building event planning\n\nDecisions Made:\n- Adopt new project management tool\n- Schedule training session for next week\n- Finalize quarterly goals by Friday\n\nNext Steps:\n• Mike: Prepare tool demo\n• Jessica: Draft client presentation\n• All: Review and provide feedback on goals",
+      "importance": "Medium",
+      "createdAt": "10/20/2025, 11:00:00 AM"
+    },
+    {
+      "id": "i9j0",
+      "title": "Personal Finance Tracking",
+      "data": "October 2025 Budget:\n\nIncome: $4,500\n\nFixed Expenses:\n• Rent: $1,200\n• Utilities: $150\n• Internet/Phone: $100\n• Insurance: $200\n• Subscriptions: $50\n\nVariable Expenses:\n• Groceries: $400\n• Dining out: $200\n• Transportation: $150\n• Entertainment: $100\n\nSavings Goals:\n- Emergency fund: $500\n- Vacation fund: $300\n- Investment: $250\n\nRemaining: $400 for miscellaneous",
+      "importance": "High",
+      "createdAt": "10/01/2025, 9:00:00 AM",
+      "updatedAt": "10/20/2025, 7:45:30 PM"
+    },
+    {
+      "id": "k1l2",
+      "title": "Creative Writing Ideas",
+      "data": "Short story concepts:\n\n1. 'The Last Librarian'\n   - In a digital world, one physical library remains\n   - Protagonist discovers hidden knowledge\n   - Theme: Preservation vs Progress\n\n2. 'Echoes of Tomorrow'\n   - Time traveler stuck in present day\n   - Must prevent disaster without changing too much\n   - Exploration of butterfly effect\n\n3. 'The Memory Thief'\n   - Detective solves crimes by reading memories\n   - Ethical dilemmas about privacy\n   - Personal connection to current case\n\nWriting schedule: 500 words daily before work",
+      "importance": "Low",
+      "createdAt": "10/19/2025, 10:30:15 PM"
+    },
+    {
+      "id": "",
+      "title": "Note",
+      "data": "kjbadskjaskjd asddjkjbdaskjb",
+      "importance": "High",
+      "createdAt": "10/20/2025, 12:08:59 PM"
+    }
+  ]
+}
